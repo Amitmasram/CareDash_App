@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771457935700",
+    "project_id": "abs-app-60891",
+    "storage_bucket": "abs-app-60891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771457935700:android:4e38d1088348ebf0e4c0c1",
+        "android_client_info": {
+          "package_name": "com.example.abs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDZiEuoUxJabTBNP-5o4KtNM9xIzuWmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
