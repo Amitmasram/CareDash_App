@@ -3,10 +3,10 @@ class AppTexts {
   // -- GLOBAL Texts
 
   // -- OnBoarding Texts
-  static const String onBoardingTitle1 = "Instantly Book the Nearest";
-
+  static const String onBoardingTitle1 = "Instantly Book the Appointment";
+  static const String welcome = "Welcome,";
   static const String onBoardingSubTitle1 =
-      "Ambulance for Emergency Assistance!";
+      "24/7 Available for Emergency Assistance!";
   static const String getStarted = "Get Started";
 
   /// -- Authentication Form Text
@@ -20,10 +20,10 @@ class AppTexts {
   static const String verify = "Verify OTP";
   static const String verifyTitle = "Enter your \n Verification code";
   static const String verifysubTitle =
-      "     We will send you an One Time Passcode.               via given number!";
+      "Enter the 6-digit code sent to your mobile number.";
 
   static const String notgetit = "Didn't get it?";
-  static const String resendcode = "Resend code";
+  static const String resendcode = "Resend OTP";
 
   static const String forgetPassword = "Forget Password";
   static const String signIn = "Sign In";

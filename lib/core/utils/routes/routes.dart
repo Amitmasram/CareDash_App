@@ -29,7 +29,7 @@ class Routes {
       case RoutesName.login:
         return MaterialPageRoute(builder: (context) => const ContinueScreen());
       case RoutesName.verify:
-        return MaterialPageRoute(builder: (context) => OtpVerifyScreen());
+        return MaterialPageRoute(builder: (context) => OTPScreen());
 
       case RoutesName.mainhome:
         return MaterialPageRoute(builder: (context) => MainHomeScreen());

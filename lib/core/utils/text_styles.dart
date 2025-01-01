@@ -109,6 +109,9 @@ class AppTextStyles {
   static final TextStyle mediumText = GoogleFonts.roboto(
     fontSize: 18.0,
     fontWeight: FontWeight.normal,
+    letterSpacing: 1.5,
+    height: 1.5,
+    color: Colors.grey,
   );
 
   static final TextStyle largeText = GoogleFonts.roboto(
